@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Test</folder>
+	<filename>39331315c7afb2ae8b44ad00fac1df4bb7e8f417.JPEG</filename>
+	<path>C:\Users\Talha\Desktop\Test\39331315c7afb2ae8b44ad00fac1df4bb7e8f417.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>110</ymin>
+			<xmax>361</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

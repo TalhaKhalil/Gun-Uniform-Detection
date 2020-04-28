@@ -1,0 +1,38 @@
+<annotation>
+	<folder>newUniform</folder>
+	<filename>images (7).jpeg</filename>
+	<path>C:\Users\Talha\Desktop\newUniform\images (7).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>244</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uniform</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>34</ymin>
+			<xmax>100</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>42</ymin>
+			<xmax>95</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

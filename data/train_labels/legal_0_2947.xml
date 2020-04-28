@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagegenerator</folder>
+	<filename>legal_0_2947.jpeg</filename>
+	<path>C:\Users\Talha\Desktop\imagegenerator\legal_0_2947.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>199</width>
+		<height>254</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uniform</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>55</ymin>
+			<xmax>143</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>
