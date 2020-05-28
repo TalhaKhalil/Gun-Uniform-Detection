@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>0a8f6b9c19cc99c95c96932fd4a591e5ae5ccfb9.JPEG</filename>
+	<path>C:\Users\Talha\Desktop\training\0a8f6b9c19cc99c95c96932fd4a591e5ae5ccfb9.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>375</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>4</ymin>
+			<xmax>373</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

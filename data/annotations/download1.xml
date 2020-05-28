@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun New images</folder>
+	<filename>download1.JPEG</filename>
+	<path>C:\Users\AALY\Desktop\Gun New images\download1.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>26</ymin>
+			<xmax>132</xmax>
+			<ymax>69</ymax>
+		</bndbox>
+	</object>
+</annotation>

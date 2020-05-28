@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Gun New images</folder>
+	<filename>armas (22).jpg</filename>
+	<path>C:\Users\AALY\Desktop\Gun New images\armas (22).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>127</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>59</ymin>
+			<xmax>60</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>
