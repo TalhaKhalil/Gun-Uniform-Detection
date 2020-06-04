@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image301.jpg</filename>
+	<path>C:\Users\AALY\Desktop\images\image301.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>704</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>55</ymin>
+			<xmax>252</xmax>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

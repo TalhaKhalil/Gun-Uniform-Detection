@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image369.jpg</filename>
+	<path>C:\Users\AALY\Desktop\images\image369.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>688</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>83</ymin>
+			<xmax>293</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
