@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pak army uniform</folder>
+	<filename>pkarmyuniform113.jpg</filename>
+	<path>C:\Users\AALY\Desktop\UniformDataset\Pak army uniform\pkarmyuniform113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>216</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uniform</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>14</ymin>
+			<xmax>155</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

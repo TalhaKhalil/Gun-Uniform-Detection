@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image053.jpg</filename>
+	<path>C:\Users\AALY\Desktop\images\image053.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>639</width>
+		<height>276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>118</ymin>
+			<xmax>358</xmax>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

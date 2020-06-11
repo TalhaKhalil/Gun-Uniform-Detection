@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image360.jpg</filename>
+	<path>C:\Users\AALY\Desktop\images\image360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>528</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>37</ymin>
+			<xmax>302</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image596.jpg</filename>
+	<path>C:\Users\AALY\Desktop\images\image596.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uniform</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>95</ymin>
+			<xmax>353</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>
